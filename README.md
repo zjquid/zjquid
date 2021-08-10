@@ -7,3 +7,4 @@
 * i7-9700k / 1660 Super
 * x201 / W520 / x230 / W500 / x131e
 * recently switched from manjaro to ubuntu on most of my machines
+* switching back because ubuntu had weird screen tearing :(
