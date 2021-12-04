@@ -6,4 +6,4 @@
 ## How I do my computing
 * i7-9700k / 1660 Super
 * x200 (primary) / x201 / W520 / x230 / W500 / x131e
-* using arch with openrc primarily now. fixed strange screen tearing, just needed to install "xf86-video-intel" and "xorg-drivers"
+* using arch with openrc primarily now. and gentoo. fixed strange screen tearing, just needed to install "xf86-video-intel" and "xorg-drivers"
