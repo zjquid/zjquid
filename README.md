@@ -10,6 +10,7 @@
 
 <div align="center" id="madewithlua">
 
-[![Lua](https://raw.githubusercontent.com/zjquid/zjquid/main/usa.png)](https://lua.org)
+[![USA](https://raw.githubusercontent.com/zjquid/zjquid/main/usa.png)](https://zjquid.github.io)
 
 </div>
+
